@@ -11,11 +11,6 @@ const Header = () => (
     <div className="ed-grid s-grid-5 lg-grid-4">
       <div className="s-cols-4 lg-cols-1 s-cross-center">
         <NavLink to="/">
-          <img
-            src="https://ed.team/static/images/logo.svg"
-            alt="EDlogo"
-            className="main-logo"
-          />
         </NavLink>
       </div>
       <div className="s-cols-1 lg-cols-3 s-cross-center s-main-end">
